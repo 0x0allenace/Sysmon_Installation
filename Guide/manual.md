@@ -71,7 +71,7 @@ Scroll down to **Pre-generated Configurations** in [SwiftOnSecurity’s Sysmon C
 
 ![administrator](images/credentials.png)
 
-![administrator_credential](images/credentials1.png)
+![administrator_cred](images/credentials1.png)
 
 ![administrator_credential](images/credentials2.png)
 
